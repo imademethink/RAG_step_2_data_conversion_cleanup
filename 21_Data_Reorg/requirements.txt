@@ -1,0 +1,15 @@
+markitdown[all]
+trafilatura
+playwright
+datasketch
+python-docx
+openpyxl
+pandas
+python-pptx
+langchain_community
+langchain_ollama
+ragas
+datasets
+pypdf
+rapidfuzz
+markdown
