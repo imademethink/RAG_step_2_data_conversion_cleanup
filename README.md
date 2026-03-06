@@ -1,6 +1,6 @@
 # Step 2 - Various Data conversion, reorganization, cleanup techniques
 
-Step 2.1 - Data reorg to Markdown (.md) format and automated validation
+Step 2.1 - Data reorg/ convert to Markdown (.md) format and automated validation
 
 [2.1_Data_Reorg_Source_code](https://github.com/imademethink/RAG_step_2_data_conversion_cleanup/tree/main/21_Data_Reorg)
 
