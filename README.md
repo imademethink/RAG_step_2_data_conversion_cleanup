@@ -6,7 +6,7 @@ Step 2.2 - Fix Your RAG Accuracy: Data Cleanup & Cross-Source Deduplication
 
 <img width="1536" height="1024" alt="ChatGPT Image Mar 7, 2026, 01_26_27 PM (1)" src="https://github.com/user-attachments/assets/2e5877f6-4e5a-49c9-862f-9ec129090f58" />
 
-# YouTube video with detailed explaination https://youtu.be/bUBDTs5DSBc
+# YouTube video with detailed explaination https://youtu.be/OoXIyPhDViU
 
 Step 2.1 - Data reorg/ convert to Markdown (.md) format and automated validation
 
