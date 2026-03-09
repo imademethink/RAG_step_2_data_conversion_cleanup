@@ -1,5 +1,13 @@
 # Step 2 - Various Data conversion, reorganization, cleanup techniques
 
+Step 2.4 - Data Chunking
+
+[24_Data_Chunking](https://github.com/imademethink/RAG_step_2_data_conversion_cleanup/tree/main/22_Data_clean_n_remove_deduplication)
+
+<img width="1536" height="1024" alt="Thumbnail" src="https://github.com/user-attachments/assets/a97c943b-7415-41ba-952e-1e868fa5a833" />
+
+# YouTube video with detailed explaination https://youtu.be/OoXIyPhDViU
+
 Step 2.2 - Fix Your RAG Accuracy: Data Cleanup & Cross-Source Deduplication
 
 [22_Data_clean_n_remove_deduplication](https://github.com/imademethink/RAG_step_2_data_conversion_cleanup/tree/main/22_Data_clean_n_remove_deduplication)
