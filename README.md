@@ -6,7 +6,7 @@ Step 2.4 - Data Chunking
 
 <img width="1536" height="1024" alt="Thumbnail" src="https://github.com/user-attachments/assets/a97c943b-7415-41ba-952e-1e868fa5a833" />
 
-# YouTube video with detailed explaination https://youtu.be/OoXIyPhDViU
+# YouTube video with detailed explaination https://youtu.be/9zaJa82juV0
 
 Step 2.2 - Fix Your RAG Accuracy: Data Cleanup & Cross-Source Deduplication
 
