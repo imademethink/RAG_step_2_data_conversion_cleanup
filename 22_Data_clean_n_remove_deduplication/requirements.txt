@@ -17,4 +17,15 @@ newspaper4k
 requests
 urllib3
 charset_normalizer
-
+unstructured
+langchain
+PyMuPDF
+langchain-text-splitters
+transformers
+ollama
+docx2txt
+torch
+langchain_experimental
+deepeval
+docarray
+chromadb
